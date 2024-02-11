@@ -40,7 +40,7 @@ body {
 
 
 .user-info{
-  width: 15%;
+  width: 25%;
   display: flex;
   justify-content: space-around;
 }
@@ -223,11 +223,9 @@ form button {
   .header-container{
     display: block;
   }
-  .logo img{
-    padding-left: 100%;
-  }
-  .user-info{
-    width: 40%;
+  
+  .user-info {
+    width: 25%;
   }
   .main {
     flex-direction: column;
@@ -269,6 +267,9 @@ form button {
   }
   .search {
     margin: 0;
+  }
+  .user-info {
+    width: 35%;
   }
 }
 
