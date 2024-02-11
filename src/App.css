@@ -267,5 +267,10 @@ form button {
   * {
     font-size: 0.7rem;
   }
+  .search {
+    margin: 0;
+  }
+}
+
 
 
