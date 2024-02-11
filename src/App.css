@@ -252,8 +252,9 @@ form button {
     padding: 20px;
     margin-left: 10px;
   }
-.sigmant {
-    width: auto;
+ .sigmant img {
+    display: block;
+    padding-left: 35%;
   }
   .main-info {
     width: 80%;
